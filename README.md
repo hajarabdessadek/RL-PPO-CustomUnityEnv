@@ -111,7 +111,9 @@ Maintenant, pour démarrer le processus de formation, utilisez les commandes sui
 (myvenv) $ cd PPO-algo-with-custom-Unity-environment
 
 (myvenv) $ python train.py
-<!-- Uploading "Capture d'écran 2025-06-06 150644.png"... -->
 
+Vue de l’environnement simulé avec obstacles et objectif:
+
+![Capture d'écran 2025-06-06 150644](https://github.com/user-attachments/assets/34317cad-3b2c-4855-98d0-cc04ed280dcc)
 
 
