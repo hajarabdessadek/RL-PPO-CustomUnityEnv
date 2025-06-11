@@ -83,13 +83,6 @@ MaxStep : Détermine la durée maximale d’un épisode. Si l’agent n’attein
 6_Le processus se répète sur plusieurs épisodes jusqu’à convergence.
 
 🛠️ Comment l'exécuter
-
-Cloner ces dépôts :
-
-$ git clone --branch release_1 https://github.com/Unity-Technologies/ml-agents.git
-
-$ git clone https://github.com/Dhyeythumar/PPO-algo-with-custom-Unity-environment.git
-
 Créer et activer l'environnement virtuel Python : (version Python utilisée - 3.8.x):
 
 $ python -m venv myvenv
